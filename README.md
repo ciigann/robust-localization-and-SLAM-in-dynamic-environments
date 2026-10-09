@@ -210,7 +210,7 @@ w<sub>i,t+1</sub> = f(w<sub>i,t</sub>, P(c<sub>i</sub> = S, r<sub>i,t</sub> = 1 
 ### 3.2.6. Обновление карты с учётом повторного взвешивания неопределённости
 RU4D-SLAM использует временные факторы и оценку неопределённости для адаптивного изменения влияния Gaussian-примитивов при реконструкции динамической сцены. Надёжные примитивы получают больший вес, а примитивы, связанные с изменениями или неопределёнными наблюдениями, — меньший.
 
-(RU4D-SLAM, CVPR 2026 — [Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction](https://arxiv.org/pdf/2602.20807)
+(RU4D-SLAM, CVPR 2026 — [Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction](https://arxiv.org/pdf/2602.20807))
 
 # 4 Описание базового решения
 
