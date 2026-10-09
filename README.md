@@ -65,31 +65,31 @@
 
 Добавление надёжных примитивов и удаление или подавление ненадёжных через вероятностный механизм.
 
-(UP-SLAM, 2025 — [UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments](https://paperswithcode.co/paper/2505.22335))
+(UP-SLAM, ICRA 2026 — [UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments](https://arxiv.org/pdf/2505.22335))
 
 ### 2.2 Различная регуляризация для Gaussian-примитивов с разной динамичностью
 
 Стабильные, неопределённые и динамические гауссианы оптимизируются с разными ограничениями.
 
-(D4DGS-SLAM, 2025 — [Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM](https://paperswithcode.co/paper/2504.04844))
+(D4DGS-SLAM, IROS 2025 — [Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM](https://arxiv.org/pdf/2504.04844))
 
 ### 2.3 Одновременная оптимизация статической и динамической частей сцены
 
 Обновление карты выполняется совместно с оценкой поз объектов и камеры в фактор-графе.
 
-(DynoSAM, 2025 — [DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM](https://paperswithcode.co/paper/2501.11893))
+(DynoSAM, 2025 — [DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM](https://arxiv.org/pdf/2501.11893v3))
 
 ### 2.4 Инкрементальное онлайн-обновление карты
 
 Изменение только затронутой части состояния при поступлении новых наблюдений вместо полной повторной оптимизации всей карты.
 
-([Online Dynamic SLAM with Incremental Smoothing and Mapping](https://paperswithcode.co/paper/2509.08197), 2025 — [Online Dynamic SLAM with Incremental Smoothing and Mapping](https://paperswithcode.co/paper/2509.08197))
+(RAL 2025 — [Online Dynamic SLAM with Incremental Smoothing and Mapping](https://arxiv.org/pdf/2509.08197v1))
 
 ### 2.5 Разделение статической карты и динамического 4D-слоя
 
 Статичные Gaussian-примитивы используются для локализации, а изменяющиеся элементы описываются отдельным временным представлением.
 
-(D4DGS-SLAM, 2025 — [Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM](https://paperswithcode.co/paper/2504.04844))
+(D4DGS-SLAM, IROS 2025 — [Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM](https://arxiv.org/pdf/2504.04844))
 
 ### Обновление карты с учётом повторного взвешивания неопределённости
 
