@@ -45,19 +45,19 @@
 
 Построение карты неопределённости для удаления влияния движущихся объектов во время трекинга и картирования.
 
-(WildGS-SLAM, 2025 — [WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments](https://paperswithcode.co/paper/2504.03886))
+(WildGS-SLAM, CVPR 2025 — [WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments](https://arxiv.org/pdf/2504.03886))
 
 ### 1.4 Фильтрация через динамическое 4D-представление сцены
 
 Использование временной координаты Gaussian-представления для моделирования изменяющихся областей вместо предположения о полностью статичной сцене.
 
-(D4DGS-SLAM, 2025 — [Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM](https://paperswithcode.co/paper/2504.04844))
+(D4DGS-SLAM, IROS 2025 — [Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM](https://arxiv.org/pdf/2504.04844))
 
 ### 1.5 Фильтрация на уровне движущихся объектов и их траекторий
 
 Совместная оценка позы камеры, статической сцены, объектов и их движения.
 
-(DynoSAM, 2025 — [DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM](https://paperswithcode.co/paper/2501.11893))
+(DynoSAM, 2025 — [DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM](https://arxiv.org/pdf/2501.11893v3))
 
 ## 2 Методы обновления статической карты Gaussian-примитивами
 
