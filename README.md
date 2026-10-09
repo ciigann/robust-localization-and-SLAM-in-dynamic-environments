@@ -33,13 +33,13 @@
 
 Оценка пиксельной или Gaussian-уровневой вероятности динамичности на основе цветовых, глубинных и других остатков.
 
-(UP-SLAM, 2025 — [UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments](https://paperswithcode.co/paper/2505.22335))
+(UP-SLAM, ICRA 2026 — [UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments]([https://paperswithcode.co/paper/2505.22335](https://arxiv.org/pdf/2505.22335)))
 
 ### 1.2 Фильтрация по временной динамичности, видимости и надёжности
 
 Выделение устойчивых статичных Gaussian-примитивов для трекинга камеры.
 
-(D4DGS-SLAM, 2025 — [Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM](https://paperswithcode.co/paper/2504.04844))
+(D4DGS-SLAM, ICRA 2025 — [Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM](https://paperswithcode.co/paper/2504.04844))
 
 ### 1.3 Фильтрация динамических областей по uncertainty map и признакам DINOv2
 
