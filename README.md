@@ -39,7 +39,7 @@
 
 Выделение устойчивых статичных Gaussian-примитивов для трекинга камеры.
 
-(D4DGS-SLAM, ICRA 2025 — [Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM](https://paperswithcode.co/paper/2504.04844))
+(D4DGS-SLAM, ICRA 2025 — [Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM](https://arxiv.org/pdf/2504.04844v2))
 
 ### 1.3 Фильтрация динамических областей по uncertainty map и признакам DINOv2
 
