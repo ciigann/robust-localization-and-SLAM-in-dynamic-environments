@@ -95,4 +95,4 @@
 
 Изменение влияния Gaussian-примитивов при восстановлении 4D-сцены на основе их текущей надёжности.
 
-(RU4D-SLAM, 2026 — [RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction](https://paperswithcode.co/paper/2602.20807))
+(RU4D-SLAM, CVPR 2026 — [RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction](https://arxiv.org/pdf/2602.20807))
